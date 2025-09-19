@@ -12,3 +12,6 @@ easyocr
 pydub 
 librosa
 noisereduce
+fitz
+gTTS
+
