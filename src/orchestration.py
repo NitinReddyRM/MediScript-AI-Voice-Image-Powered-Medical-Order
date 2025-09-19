@@ -46,6 +46,12 @@ class orchetraction:
         
         
         return llm_model.parse_input(" ".join([i.text for i in segments]))
+    
+
+    def PDF_data_extraction(self,input_text):
+        
+        return llm_model.parse_input(input_text)
+
 
 
 
