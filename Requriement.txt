@@ -1,0 +1,14 @@
+langchain
+langchain-groq
+langchain-core
+langchain-community
+langgraph
+streamlit
+audio-recorder-streamlit
+faster-whisper
+torch
+tensorflow
+easyocr
+pydub 
+librosa
+noisereduce
